@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 cd env
-sudo pip3 install -e .
+sudo pip install -e .
+sudo pip install baselines
